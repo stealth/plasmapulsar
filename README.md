@@ -161,3 +161,6 @@ the root password, as its expected. The exploit however still works, as its
 spoofing the `callerID` to be _D-Bus_ itself and the request is taken as legit,
 requiring no root password.
 
+
+![screenshot](https://github.com/stealth/plasmapulsar/blob/master/smb0k.jpg)
+
